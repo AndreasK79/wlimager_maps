@@ -4,5 +4,5 @@
         { "call": "hb9hil", "url":"https://wavelog.hb9hil.org/visitor/exportmap?slug=log&showlines=true"},
         { "call": "la8aja", "url":"https://la8aja.com/wl/visitor/exportmap?slug=la8aja&showcq=true&showlines=true"},
         { "call": "dl250cdf", "url":"https://log.dl250cdf.de/visitor/exportmap?slug=log&showlines=true"},
-        { "call": "dj7nt_dev", "url":"https://log.dj7nt.de/visitor/exportmap/dj7nt" }
+        { "call": "dj7nt_dev", "url":"https://log.dj7nt.de/visitor/exportmap/dj7nt?blind" }
 ]
